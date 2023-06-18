@@ -37,6 +37,7 @@ I'm currently studying Software Engineering (Dhaka University)
 <a href="https://codeforces.com/profile/t44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="t44" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/trina01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="trina01" height="30" width="40" /></a>
 </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=trina-se&label=Profile%20views&color=0e75b6&style=flat" alt="trina-se" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trina-se&show_icons=true&locale=en&layout=compact" alt="trina-se" /></p>
 
