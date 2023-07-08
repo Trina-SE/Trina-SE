@@ -61,5 +61,3 @@ I'm currently studying Software Engineering (Dhaka University)
 
 ### 🪧 Motivation:
 ![logo](https://github.com/Trina-SE/Trina-SE/blob/main/fin1.png)
-
-
