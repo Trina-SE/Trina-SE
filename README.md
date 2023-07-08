@@ -13,7 +13,7 @@ I'm currently studying Software Engineering (Dhaka University)
 
  ♐️ Respect
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trina-se" alt="trina-se" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trina-se&theme=flat" alt="trina-se" /></a> </p>
 
 - 🌱 I’m currently learning **Parse Tree in Compiler Design**
 
@@ -31,16 +31,24 @@ I'm currently studying Software Engineering (Dhaka University)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sultana trina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sultana trina" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1313-trina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1313-trina" height="30" width="40" /></a>
 <a href="https://fb.com/sultana trina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sultana trina" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/trina01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="trina01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/trina01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trina01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/t44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="t44" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/trina01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="trina01" height="30" width="40" /></a>
+<a href="https://discord.gg/trina#2195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="trina#2195" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Contribution Graph:</h3>
+
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Trina-SE&theme=tokyo-day"/></p>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=trina-se&label=Profile%20views&color=0e75b6&style=flat" alt="trina-se" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trina-se&show_icons=true&locale=en&layout=compact" alt="trina-se" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trina-se&show_icons=true&locale=en&layout=donut&theme=merko" alt="trina-se" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trina-se&show_icons=true&locale=en" alt="trina-se" /></p>
+<p>&nbsp;<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Trina-SE?cardType=github&theme=merko&preferLogin=false" alt="trina-se" /><br></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trina-se&" alt="trina-se" /></p>
+<p><img align="left" src="https://streak-stats.demolab.com?user=Trina-SE&theme=merko&mode=weekly" alt="trina-se" /></p>
