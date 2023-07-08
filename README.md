@@ -49,11 +49,17 @@ I'm currently studying Software Engineering (Dhaka University)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trina-se&show_icons=true&locale=en&layout=donut&theme=merko" alt="trina-se" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Trina-SE?cardType=github&theme=merko&preferLogin=false" alt="trina-se" /><br><br></p>
 
 ### 🪄 Random Quotation:
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/Trina-SE/github-readme-quotes)
 
 <p><img align="left" src="https://streak-stats.demolab.com?user=Trina-SE&theme=merko&mode=weekly" alt="trina-se" /></p>
+<br><br><br><br><br><br><br><br><br>
+
+### 🪧 Motivation:
+![logo](https://github.com/Trina-SE/Trina-SE/blob/main/fin.png)
 
 
