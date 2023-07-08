@@ -1,4 +1,4 @@
-![logo](https://github.com/Trina-SE/Trina-SE/blob/main/Front%20picture.png)
+![logo](https://github.com/Trina-SE/Trina-SE/blob/main/log.png)
 
 <h1 align="center">As-salamu alaykum, I'm Trina🙋‍♀️</h1>
 <h3 align="center">A Software Engineering Undergrad Student</h3>
