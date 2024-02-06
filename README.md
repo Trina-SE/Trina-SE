@@ -15,13 +15,13 @@ I'm currently studying Software Engineering (Dhaka University)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trina-se&theme=flat" alt="trina-se" /></a> </p>
 
-- 🌱 I’m currently learning **Parse Tree in Compiler Design**
+- 🌱 I’m currently learning **Web Development**
 
-- 🔭 I’m currently working on [a project which is to Build an Abstract Syntax Tree from C source Code👩‍💻](https://github.com/Trina-SE/SPL-1)
+- 🔭 I’m currently working on [a project which is to build a Contest Platform👩‍💻](https://github.com/Trina-SE/SPL-1)
 
 - 📫 How to reach me **sultanatrina4209@gmail.com**
 
-- ❓Ask me about **Abstract Syntax Tree**
+- ❓Ask me about **Compiler design, Parse Tree, Abstract Syntax Tree or WebTech**
 
 
 <img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/93/6c/ad/936cadb0814fbd5d779f6c5557e95983.gif">
