@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
-I'm currently studying Software Engineering (Dhaka University)
+I'm currently studying B.Sc in Software Engineering at University of Dhaka
 
  ♐️ Professionalism
 
@@ -15,9 +15,9 @@ I'm currently studying Software Engineering (Dhaka University)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trina-se&theme=flat" alt="trina-se" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full stack Development**
 
-- 🔭 I’m currently working on [a project which is to build a Contest Platform👩‍💻](https://github.com/Trina-SE/SPL-1)
+- 🔭 I’m currently working on [a project which is to build a Contest Platform👩‍💻](https://github.com/Trina-SE/SPL-2)
 
 - 📫 How to reach me **sultanatrina4209@gmail.com**
 
