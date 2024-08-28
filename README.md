@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/Trina-SE/Trina-SE/blob/main/Quote.png" width="400" height="300" alt="logo" /></div>
+<div align="center"><img src="https://github.com/Trina-SE/Trina-SE/blob/main/Quote.png" width="450" height="250" alt="logo" /></div>
 
 <h1 align="center">As-salamu alaykum, I'm Trina🙋‍♀️</h1>
 <h3 align="center">A Software Engineering Undergrad Student</h3>
@@ -17,7 +17,7 @@ I'm currently studying B.Sc in Software Engineering at University of Dhaka
 
 - 🌱 I’m currently learning **Full stack Development**
 
-- 🔭 I’m currently working on [a project which is to build a Contest Platform👩‍💻](https://github.com/Trina-SE/SPL-2)
+- 🔭 I’m currently working on [a project which is to build a Contest Platform👩‍💻](https://github.com/Trina-SE/SPL_02/tree/Trina-SE-patch-1)
 
 - 📫 How to reach me **sultanatrina4209@gmail.com**
 
