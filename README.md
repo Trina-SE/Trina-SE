@@ -1,6 +1,7 @@
 <div align="center"><img src="https://github.com/Trina-SE/Trina-SE/blob/main/Quote.png" width="450" height="250" alt="logo" /></div>
 
 <h1 align="center">As-salamu alaykum, I'm Trina🙋‍♀️</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trina-se&label=Profile%20views&color=0e75b6&style=flat" alt="trina-se" /> </p>
 <h3 align="center">A Software Engineering Undergrad Student</h3>
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
