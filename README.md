@@ -16,7 +16,7 @@ I'm currently studying B.Sc in Software Engineering at University of Dhaka
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trina-se&theme=flat" alt="trina-se" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🔭 I’m currently working on [a project which is to build a Contest Platform👩‍💻](https://github.com/Trina-SE/SPL_02/tree/Trina-SE-patch-1)
 
