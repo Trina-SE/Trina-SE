@@ -18,11 +18,11 @@ I'm currently studying B.Sc in Software Engineering at University of Dhaka
 
 - 🌱 I’m currently learning **Neural network,ML,DL**
 
-- 🔭 I’m currently working on DevOps related projects
+- 🔭 I’m currently working on ML & DevOps related projects
 
 - 📫 How to reach me **sultanatrina4209@gmail.com**
 
-- ❓Ask me about **CI/CD Pipeline, Docker, Sentry, Grafana, Compiler design, Parse Tree, Abstract Syntax Tree**
+- ❓Ask me about **RNN, LSTM, Neural Network, CI/CD Pipeline, Docker, Sentry, Compiler design, Parse Tree, Abstract Syntax Tree**
 
 
 <img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/93/6c/ad/936cadb0814fbd5d779f6c5557e95983.gif">
